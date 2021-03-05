@@ -30,8 +30,8 @@
 		C75D3D5A1D3671B500B6F44B /* RCTImageSequenceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTImageSequenceView.h; sourceTree = "<group>"; };
 		C75D3D5B1D3671B500B6F44B /* RCTImageSequenceManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTImageSequenceManager.m; sourceTree = "<group>"; };
 		C75D3D5C1D3671B500B6F44B /* RCTImageSequenceManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTImageSequenceManager.h; sourceTree = "<group>"; };
-		EAAA37BB25F27E6000ED6294 /* UIImageView+AnimationCompletion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AnimationCompletion.h"; path = "../../../../../Desktop/UIImageView+AnimationCompletion.h"; sourceTree = "<group>"; };
-		EAAA37BC25F27E6000ED6294 /* UIImageView+AnimationCompletion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AnimationCompletion.m"; path = "../../../../../Desktop/UIImageView+AnimationCompletion.m"; sourceTree = "<group>"; };
+		EAAA37BB25F27E6000ED6294 /* UIImageView+AnimationCompletion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AnimationCompletion.h"; path = "RCTImageSequence/UIImageView+AnimationCompletion.h"; sourceTree = SOURCE_ROOT; };
+		EAAA37BC25F27E6000ED6294 /* UIImageView+AnimationCompletion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AnimationCompletion.m"; path = "RCTImageSequence/UIImageView+AnimationCompletion.m"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
