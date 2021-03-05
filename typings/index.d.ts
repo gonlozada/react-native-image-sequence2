@@ -9,6 +9,8 @@ interface ImageSequenceProps {
     framesPerSecond?: number;
     /** Should the sequence loop. Default: true */
     loop?: boolean;
+    onAnimationFinished?: () => Object;
+
 }
 
 declare class ImageSequence extends Component<ImageSequenceProps> {
