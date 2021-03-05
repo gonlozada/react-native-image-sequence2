@@ -65,12 +65,12 @@
 
     [_imagesLoaded removeAllObjects];
 
-    self.image = nil;
+    self.image = [images lastObject];
     self.animationDuration = images.count * (1.0f / _framesPerSecond);
     self.animationImages = images;
     self.animationRepeatCount = _loop ? 0 : 1;
     [self startAnimatingWithCompletionBlock:^(BOOL success) {
-        self.image = [images lastObject];
+        
         self->_onAnimationFinished(@{@"result": @(true)});
     }];
 }
