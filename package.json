@@ -9,6 +9,7 @@
   "license": "MIT",
   "main": "index.js",
   "name": "react-native-image-sequence",
+  "homepage": "https://github.com/gonlozada/react-native-image-sequence2.git",
   "peerDependencies": {
     "react-native": ">=0.47.0",
     "prop-types": ">=15.5.0"
