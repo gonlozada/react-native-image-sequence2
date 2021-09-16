@@ -19,5 +19,5 @@
     "url": "git+https://github.com/madsleejensen/react-native-image-sequence.git"
   },
   "types": "typings/index.d.ts",
-  "version": "1.2.1"
+  "version": "1.2.2"
 }
